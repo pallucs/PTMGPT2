@@ -1,0 +1,12 @@
+{
+  "bos_token": "<startoftext>",
+  "eos_token": "<endoftext>",
+  "pad_token": "<PAD>",
+  "unk_token": {
+    "content": "<|endoftext|>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  }
+}

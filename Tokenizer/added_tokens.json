@@ -1,0 +1,9 @@
+{
+  "<PAD>": 50259,
+  "<endoftext>": 50258,
+  "<startoftext>": 50257,
+  "LABEL:": 50261,
+  "NEGATIVE": 50263,
+  "POSITIVE": 50262,
+  "SEQUENCE:": 50260
+}
