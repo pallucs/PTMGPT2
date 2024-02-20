@@ -4,8 +4,11 @@
 <p>Link - (https://nsclbio.jbnu.ac.kr/GPT_model/)</p>
 <p>Contact us directly at <b>palisthashrestha7@jbnu.ac.kr</b> for bulk predictions and trained models</p>
 
+<h3>PTMGPT2 Webserver</h3>
+<p>Link - (https://nsclbio.jbnu.ac.kr/tools/ptmgpt2/)</p>
+
 <h3>PTMGPT2 model and workflow</h3>
-<img src='PTMGPT2-workflow-model.png'>PTMGPT2 Workflow Model</img>
+<img src='PTMGPT2-workflow-model.png'></img>
 
 
 
