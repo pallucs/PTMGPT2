@@ -5,6 +5,6 @@
 <p>Contact us directly at <b>palisthashrestha7@jbnu.ac.kr</b> for bulk predictions and trained models</p>
 
 <h3>PTMGPT2 model and workflow</h3>
-![image](https://user-images.githubusercontent.com/pallucs/PTMGPT2/main/PTMGPT2-workflow-model.png)
+![PTMGPT2 Workflow Model](https://github.com/pallucs/PTMGPT2/blob/main/PTMGPT2-workflow-model.png?raw=true)
 
 
