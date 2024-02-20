@@ -21,6 +21,15 @@ for task-specific classification heads.</p>
 <h3>Requirements</h3>
 <p>python 3.11.3 <br> transformers 4.29.2 <br> scikit-learn 1.2.2 <br> pytorch 2.0.1 <br> pytorch-cuda 11.7</p>
 
+<h3>Basic Usage</h3>
+• Model: This folder hosts a sample model designed to predict PTM sites from given
+protein sequences, illustrating PTMGPT2’s application.
+• Tokenizer: This folder contains a sample tokenizer responsible for tokenizing
+protein sequences, including handcrafted tokens for specific amino acids or motifs.
+• Inference.ipynb: This file provides executable code for applying PTMGPT2 model
+and tokenizer to predict PTM sites, serving as a practical guide for users to apply
+the model to their datasets.
+
 
 
 
