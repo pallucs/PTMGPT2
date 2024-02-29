@@ -1,8 +1,7 @@
 <h1>PTMGPT2</h1>
 <p>PTMGPT2 is a suite of models capable of generating tokens
 that signify modified amino acid residues, crucial for identifying PTM sites. At the
-core of this platform is PROTGPT2, an autoregressive transformer model, origi
-nally trained on 50 million non-annotated sequences spanning the complete spectrum
+core of this platform is PROTGPT2, an autoregressive transformer model, originally trained on 50 million non-annotated sequences spanning the complete spectrum
 of the protein space. We have adapted PROTGPT2, utilizing it as a pre-trained
 model, and further fine-tuned it for the specific task of generating classification
 labels for a given protein sequence. Uniquely, PTMGPT2 employs a zero-shot text
