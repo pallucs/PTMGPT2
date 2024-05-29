@@ -17,6 +17,13 @@ for task-specific classification heads.</p>
 <h3>PTMGPT2 Webserver</h3>
 <p>Link - (https://nsclbio.jbnu.ac.kr/tools/ptmgpt2/)</p>
 
+<h3>PTMGPT2 Models</h3>
+<p>Link - (https://doi.org/10.5281/zenodo.11371883)</p>
+<p>Link - (https://zenodo.org/records/11362322)</p>
+
+<h3>PTMGPT2 Datasets</h3>
+<p>Link - (https://doi.org/10.5281/zenodo.11377398)</p>
+
 <h3>Requirements</h3>
 <p>python 3.11.3 <br> transformers 4.29.2 <br> scikit-learn 1.2.2 <br> pytorch 2.0.1 <br> pytorch-cuda 11.7</p>
 
