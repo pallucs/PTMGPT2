@@ -1,12 +1,13 @@
 <h1>PTMGPT2</h1>
-<p>PTMGPT2 is a suite of models capable of generating tokens
-that signify modified amino acid residues, crucial for identifying PTM sites. At the
-core of this platform is PROTGPT2, an autoregressive transformer model, originally trained on 50 million non-annotated sequences spanning the complete spectrum
-of the protein space. We have adapted PROTGPT2, utilizing it as a pre-trained
-model, and further fine-tuned it for the specific task of generating classification
-labels for a given protein sequence. Uniquely, PTMGPT2 employs a zero-shot text
-classification approach using a generative language model, negating the need
-for task-specific classification heads.</p>
+<p>Here, we introduce PTMGPT2, a suite of models capable of generating tokens that
+signify modified protein sequences, crucial for identifying PTM sites. At the core of this
+platform is PROTGPT2 [13], an autoregressive transformer model. We have adapted
+PROTGPT2, utilizing it as a pre-trained model, and further fine-tuned it for the spe-
+cific task of generating classification labels for a given PTM type. Uniquely, PTMGPT2
+utilizes a decoder-only architecture, which eliminates the need for a task-specific clas-
+sification head during training. Instead, the final layer of the decoder functions as a
+projection back to the vocabulary space, effectively generating the next possible token
+based on the learned patterns among tokens in the input prompt.</p>
 <h3>PTMGPT2 model and workflow</h3>
 <img src='PTMGPT2-workflow-model.png'></img>
 
