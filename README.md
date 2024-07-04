@@ -1,4 +1,4 @@
-<h1>PTMGPT2</h1> [![DOI](https://zenodo.org/badge/758635995.svg)](https://zenodo.org/doi/10.5281/zenodo.12655680)
+<h1>PTMGPT2</h1> <a href="https://zenodo.org/doi/10.5281/zenodo.12655680"><img src="https://zenodo.org/badge/758635995.svg" alt="DOI"></a> 
 <p>Here, we introduce PTMGPT2, a suite of models capable of generating tokens that
 signify modified protein sequences, crucial for identifying PTM sites. At the core of this
 platform is PROTGPT2 [13], an autoregressive transformer model. We have adapted
