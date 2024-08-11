@@ -2,7 +2,7 @@
 <p>Here, we introduce PTMGPT2, a suite of models capable of generating tokens that
 signify modified protein sequences, crucial for identifying PTM sites. At the core of this
 platform is PROTGPT2, an autoregressive transformer model. We have adapted
-PROTGPT2, utilizing it as a pre-trained model, and further fine-tuned it for the spe-
+PROTGPT2, utilizing it as a pre-trained model, and further fine-tuned it for the spe
 cific task of generating classification labels for a given PTM type. Uniquely, PTMGPT2
 utilizes a decoder-only architecture, which eliminates the need for a task-specific clas-
 sification head during training. Instead, the final layer of the decoder functions as a
