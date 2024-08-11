@@ -1,7 +1,7 @@
 <h1>PTMGPT2</h1> <a href="https://zenodo.org/doi/10.5281/zenodo.12655680"><img src="https://zenodo.org/badge/758635995.svg" alt="DOI"></a> 
 <p>Here, we introduce PTMGPT2, a suite of models capable of generating tokens that
 signify modified protein sequences, crucial for identifying PTM sites. At the core of this
-platform is PROTGPT2 [13], an autoregressive transformer model. We have adapted
+platform is PROTGPT2, an autoregressive transformer model. We have adapted
 PROTGPT2, utilizing it as a pre-trained model, and further fine-tuned it for the spe-
 cific task of generating classification labels for a given PTM type. Uniquely, PTMGPT2
 utilizes a decoder-only architecture, which eliminates the need for a task-specific clas-
